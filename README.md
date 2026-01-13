@@ -1,1 +1,1 @@
-## This is the first Python app
+## This is the first Python application
